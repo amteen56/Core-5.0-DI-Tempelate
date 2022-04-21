@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HSH0WVwptc+xtwSHEhkCGXaKhsVWd5ZwU5XOv/ZHf55ejfVRClgEJGahde+9Wm3CJQBcL1wgQ1t6v1d7LL0aJQ==",
+  "dgSpecHash": "PP5YtnffMnvDzVnJGEvu3fcMdpGKZNHks4G7skW9kYf5aOqfIi72K2/UV5QuEEZplKBAdJuxLIWCsR3hDthpsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\Core 5.0 DI Tempelate\\src\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\up\\Core-5.0-DI-Tempelate\\src\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abdul.mateen\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.16\\microsoft.aspnetcore.authentication.jwtbearer.5.0.16.nupkg.sha512",
     "C:\\Users\\abdul.mateen\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

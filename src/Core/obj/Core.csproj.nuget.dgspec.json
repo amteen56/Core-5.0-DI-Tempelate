@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\Core 5.0 DI Tempelate\\src\\Core\\Core.csproj": {}
+    "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\up\\Core-5.0-DI-Tempelate\\src\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\Core 5.0 DI Tempelate\\src\\Core\\Core.csproj": {
+    "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\up\\Core-5.0-DI-Tempelate\\src\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\Core 5.0 DI Tempelate\\src\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\up\\Core-5.0-DI-Tempelate\\src\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\Core 5.0 DI Tempelate\\src\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\up\\Core-5.0-DI-Tempelate\\src\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\abdul.mateen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\Core 5.0 DI Tempelate\\src\\Core\\obj\\",
+        "outputPath": "C:\\Users\\abdul.mateen\\Documents\\Visual Studio 2019\\up\\Core-5.0-DI-Tempelate\\src\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
